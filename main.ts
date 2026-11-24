@@ -1,3 +1,7 @@
+// One sentence explaining the internet to a traveler from 1800:
+// it builds only on things they already know (libraries, post offices,
+// roads, letters, ink) and lets a single image — a road of light — carry
+// the whole idea, so the sentence lands without any modern word.
 import { mkdirSync, writeFileSync, chmodSync } from "node:fs";
 import { join } from "node:path";
 
